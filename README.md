@@ -1,4 +1,4 @@
-<p align="center><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"></p>
+![]("https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif")
 # Bharatnaty
 <h1 align="center">Hi 👋, I'm BHARAT NATRAYN</h1>
 <h3 align="center">AI/ML ADMIRER LEARN DEVELOP MAKE IT WORTH BETTER EVERYDAY</h3>
