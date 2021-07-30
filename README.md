@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.xsensor.com%2Fnew-wave-of-innovation-ai%2Fml-in-medtech&psig=AOvVaw01ZzYUhsnjMgoeHYpXOh2K&ust=1627714942920000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIieuO6civICFQAAAAAdAAAAABAJ" width="29px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
 # Bharatnaty
 <h1 align="center">Hi 👋, I'm BHARAT NATRAYN</h1>
 <h3 align="center">AI/ML ADMIRER LEARN DEVELOP MAKE IT WORTH BETTER EVERYDAY</h3>
